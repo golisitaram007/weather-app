@@ -55,5 +55,6 @@
       "^.+\\.js$": "babel-jest",
       ".+\\.(css|styl|less|sass|scss)$": "jest-transform-css"
     }
-  }
+  },
+  "homepage" : "http://golisitaram007.github.io/weather-app"
 }
