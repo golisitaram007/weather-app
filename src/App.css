@@ -1,0 +1,29 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+.mainSection{
+    margin-top: 30px;
+}
+.loginCard{
+    height: 100vh;
+}
+.loginCard > div{
+    height: 100%;
+    margin: 10%;
+}
+.temperatureElem{
+    display: flex;
+    border-bottom: 1px solid;
+}
+.weather-card{
+    font-family: monospace;
+}
+.brandIcon{
+    width: 40px;
+    vertical-align: middle;
+}
+.brandButton {
+    margin-top: 10px;
+}
+nav button i.logoutIcon{
+    line-height: 38px;
+}
